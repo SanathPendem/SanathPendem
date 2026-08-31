@@ -14,9 +14,9 @@
 
 ### 👨‍💻 About Me
 
-I design and deploy end-to-end Machine Learning pipelines and full-stack web applications. My work spans time-series forecasting, computer vision, financial market sentiment modeling, and intelligent full-stack platforms powered by LLMs like GPT-4o.
+I design and deploy end-to-end Machine Learning pipelines and full-stack web applications. My work spans time-series forecasting, computer vision, financial market sentiment modeling, automated address standardization systems, and intelligent full-stack platforms powered by LLMs like GPT-4o.
 
-- 🔬 **Core Focus**: Hybrid ML models (DWT-LSTM, ESRGAN), computer vision in healthcare, and AI-assisted full-stack architectures.
+- 🔬 **Core Focus**: Hybrid ML models (DWT-LSTM, ESRGAN), intelligent address standardization (LightGBM/FastAPI), computer vision in healthcare, and AI-assisted full-stack architectures.
 - ⚡ **Active Development**: Over **89 contributions in the last year**, continually shipping production-focused ML & web projects.
 - 🛠️ **Engineering Philosophy**: Clean code, mathematically sound models, and responsive user experiences.
 
@@ -38,17 +38,18 @@ I design and deploy end-to-end Machine Learning pipelines and full-stack web app
       <h4>Machine Learning & Data Science</h4>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/LightGBM-3776AB?style=for-the-badge&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
       <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
       <h4>Web & Backend Frameworks</h4>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
       <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
     </td>
@@ -64,6 +65,43 @@ I design and deploy end-to-end Machine Learning pipelines and full-stack web app
 ---
 
 ### 🚀 Highlighted Projects
+
+#### 🌐 Full-Stack & Web Applications
+
+<details open>
+  <summary><b>🏡 AI-Assisted Property Address Standardization System</b></summary>
+  <br />
+  <p>An enterprise AI-powered Address Standardization system with automated confidence scoring and active feedback learning.</p>
+  <ul>
+    <li><b>Key Tech:</b> NestJS, FastAPI, PostgreSQL, LightGBM, Python, TypeScript, Docker</li>
+    <li><b>What it does:</b> Automatically parses and standardizes raw address data, calculates AI prediction confidence scores, routes low-confidence edge cases for human review, and continuously improves model accuracy via human-in-the-loop retraining loops.</li>
+  </ul>
+  <p>🔗 <a href="https://github.com/SanathPendem/AI-Assisted-Property-Address-Standardization-System">View Repository</a></p>
+</details>
+
+<details open>
+  <summary><b>🏋️ AI-Powered Weight Management System</b></summary>
+  <br />
+  <p>Full-stack wellness platform featuring real-time health metrics and an embedded GPT-4o fitness coach.</p>
+  <ul>
+    <li><b>Key Tech:</b> React, NestJS, PostgreSQL, TypeScript, OpenAI GPT-4o API, Tailwind / CSS3</li>
+    <li><b>What it does:</b> Tracks dynamic BMI, daily calorie consumption, and intermittent fasting windows. Features an interactive, personalized GPT-4o powered assistant for tailored workout and nutritional advice.</li>
+  </ul>
+  <p>🔗 <a href="https://github.com/SanathPendem/weight-management-system">View Repository</a></p>
+</details>
+
+<details open>
+  <summary><b>🛍️ Store Rating Platform</b></summary>
+  <br />
+  <p>Scalable web platform designed for store feedback aggregation and rating analytics.</p>
+  <ul>
+    <li><b>Key Tech:</b> TypeScript, Node.js, Express / NestJS, REST API</li>
+    <li><b>What it does:</b> Enables users and admins to post, manage, and analyze ratings and operational feedback for retail locations with typed schemas and clean backend architecture.</li>
+  </ul>
+  <p>🔗 <a href="https://github.com/SanathPendem/Store-rating-platform">View Repository</a></p>
+</details>
+
+<br />
 
 #### 🤖 Artificial Intelligence & Machine Learning
 
@@ -109,32 +147,6 @@ I design and deploy end-to-end Machine Learning pipelines and full-stack web app
     <li><b>What it does:</b> Processes CT/MRI scan data to assist healthcare professionals in identifying, classifying, and segmenting brain hemorrhages with high precision.</li>
   </ul>
   <p>🔗 <a href="https://github.com/SanathPendem/brain-haemorhhage">View Repository</a></p>
-</details>
-
-<br />
-
-#### 🌐 Full-Stack & Web Applications
-
-<details open>
-  <summary><b>🏋️ AI-Powered Weight Management System</b></summary>
-  <br />
-  <p>Full-stack wellness platform featuring real-time health metrics and an embedded GPT-4o fitness coach.</p>
-  <ul>
-    <li><b>Key Tech:</b> React, NestJS, PostgreSQL, TypeScript, OpenAI GPT-4o API, Tailwind / CSS3</li>
-    <li><b>What it does:</b> Tracks dynamic BMI, daily calorie consumption, and intermittent fasting windows. Features an interactive, personalized GPT-4o powered assistant for tailored workout and nutritional advice.</li>
-  </ul>
-  <p>🔗 <a href="https://github.com/SanathPendem/weight-management-system">View Repository</a></p>
-</details>
-
-<details open>
-  <summary><b>🛍️ Store Rating Platform</b></summary>
-  <br />
-  <p>Scalable web platform designed for store feedback aggregation and rating analytics.</p>
-  <ul>
-    <li><b>Key Tech:</b> TypeScript, Node.js, Express / NestJS, REST API</li>
-    <li><b>What it does:</b> Enables users and admins to post, manage, and analyze ratings and operational feedback for retail locations with typed schemas and clean backend architecture.</li>
-  </ul>
-  <p>🔗 <a href="https://github.com/SanathPendem/Store-rating-platform">View Repository</a></p>
 </details>
 
 ---
