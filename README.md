@@ -1,12 +1,12 @@
 <h1 align="center">Hi there, I'm Sanath Pendem 👋</h1>
 <p align="center">
   <b>Machine Learning Engineer & Full-Stack Developer</b><br>
-  Building intelligent data-driven systems, time-series forecasting models, and scalable full-stack applications.
+  Building intelligent data-driven systems, GenAI applications, and high-performance full-stack architectures.
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Contributions-89%2B%20in%20past%20year-brightgreen?style=for-the-badge&logo=github" alt="89+ Contributions">
-  <img src="https://img.shields.io/badge/Focus-ML%20%26%20Full%20Stack-blue?style=for-the-badge&logo=python" alt="ML & Full Stack Focus">
+  <img src="https://img.shields.io/badge/Focus-AI%2FML%20%26%20Full%20Stack-blue?style=for-the-badge&logo=python" alt="AI/ML & Full Stack Focus">
   <img src="https://img.shields.io/badge/Status-Open%20to%20Collaboration-orange?style=for-the-badge" alt="Open to Collaboration">
 </p>
 
@@ -14,53 +14,72 @@
 
 ### 👨‍💻 About Me
 
-I design and deploy end-to-end Machine Learning pipelines and full-stack web applications. My work spans time-series forecasting, computer vision, financial market sentiment modeling, automated address standardization systems, and intelligent full-stack platforms powered by LLMs like GPT-4o.
+I design and deploy end-to-end Machine Learning models, GenAI/RAG architectures, and scalable full-stack web applications. My work bridges complex AI research (time-series forecasting, computer vision, address standardization models) with production-grade backends and modern web frontends.
 
-- 🔬 **Core Focus**: Hybrid ML models (DWT-LSTM, ESRGAN), intelligent address standardization (LightGBM/FastAPI), computer vision in healthcare, and AI-assisted full-stack architectures.
-- ⚡ **Active Development**: Over **89 contributions in the last year**, continually shipping production-focused ML & web projects.
-- 🛠️ **Engineering Philosophy**: Clean code, mathematically sound models, and responsive user experiences.
+- 🔬 **Core Focus**: AI/ML Systems, RAG & Vector Search, LLM Fine-Tuning, Computer Vision, and Microservice Full-Stack Architectures.
+- ⚡ **Active Development**: Over **89 contributions in the last year**, continually shipping production-focused AI & web projects.
+- 🛠️ **Engineering Philosophy**: High-performance, mathematically sound models, typed APIs, and intuitive user interfaces.
+
+---
+
+### 🌟 Core Tech Highlight
+
+```
+Python · TypeScript · JavaScript · React · Next.js · Node.js · FastAPI · PostgreSQL · MongoDB · Redis
+PyTorch · TensorFlow · Scikit-learn · Hugging Face · LLMs · RAG · LangChain · Vector DBs · Docker · AWS
+```
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h4>Languages & Core</h4>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-    </td>
-    <td valign="top" width="50%">
-      <h4>Machine Learning & Data Science</h4>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-      <img src="https://img.shields.io/badge/LightGBM-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <h4>Web & Backend Frameworks</h4>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-    </td>
-    <td valign="top" width="50%">
-      <h4>Databases & Infrastructure</h4>
-      <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </td>
-  </tr>
-</table>
+#### 🧠 AI / ML & Generative AI (Highest Priority)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-2A8550?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LightGBM-2E7D32?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Sentence_Transformers-4A90E2?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-1F6FEB?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Embeddings-0052CC?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fine--Tuning-0052CC?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector_Databases-7B2CBF?style=for-the-badge&logo=pinecone&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Agents-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+</p>
+
+#### 🌐 Full-Stack & Backend (Highest Priority)
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+
+#### ⚙️ Production, DevOps & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-0052CC?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Microservices-4A90E2?style=for-the-badge&logo=kubernetes&logoColor=white" />
+</p>
 
 ---
 
