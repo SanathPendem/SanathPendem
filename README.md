@@ -33,7 +33,7 @@ PyTorch · TensorFlow · Scikit-learn · Hugging Face · LLMs · RAG · LangChai
 
 ### 🛠️ Tech Stack & Skills
 
-#### 🧠 AI / ML & Generative AI (Highest Priority)
+#### 🧠 AI / ML & Generative AI
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -53,7 +53,7 @@ PyTorch · TensorFlow · Scikit-learn · Hugging Face · LLMs · RAG · LangChai
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
 </p>
 
-#### 🌐 Full-Stack & Backend (Highest Priority)
+#### 🌐 Full-Stack & Backend
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
